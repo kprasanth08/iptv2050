@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Indian Regional" tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg",Star Maa HD
-http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
+
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/dVdvdMNt/sjM1MbFR.jpg",Zee Cinema HD
 http://103.120.172.74:4100
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/1XD0g9zs/Zeetv.jpg",Zee TV
 http://103.120.172.74:1140
+#EXTINF:-1 group-title="Indian Regional" tvg-logo="https://i.postimg.cc/gkYsLsPm/image_14.jpg",Star Maa HD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR MAA FHD" tvg-logo="" group-title="INDIAN",IN| STAR MAA FHD
+http://zeintv.xyz:8080/akram/102030/131192
 #EXTINF:-1 group-title="Indian Regional" tvg-logo="https://i.postimg.cc/HxD4Y42G/image_15.jpg",SUN TV HD Telugu
 https://edge1.laotv.la/live/SunTV/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/hR9CK7Q/IMG-20240126-094603.png",MUSIC INDIA
